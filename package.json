@@ -1,16 +1,17 @@
 {
   "name": "@unlockdep/app-template-react-sass",
   "description": "A preconfigured template for Snowpack with React and Sass",
-  "version": "2.0.0",
+  "version": "2.0.1",
   "license": "LICENSE",
-  "bugs": "https://github.com/UnlockDep/app-template-react-sass/issues",
-  "homepage": "https://github.com/UnlockDep/app-template-react-sass#readme",
+  "bugs": "https://github.com/UnlockDep/app-template-react-typescript-sass/issues",
+  "homepage": "https://github.com/UnlockDep/app-template-react-typescript-sass#readme",
   "repository": {
     "type": "git",
-    "url": "https://github.com/UnlockDep/app-template-react-sass.git"
+    "url": "https://github.com/UnlockDep/app-template-react-typescript-sass.git"
   },
   "keywords": [
-    "csa-template"
+    "csa-template",
+    "webpack"
   ],
   "publishConfig": {
     "access": "public"

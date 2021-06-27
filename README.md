@@ -1,4 +1,4 @@
-# Template Made By [UnlockDep](https://github.com/UnlockDep/)
+# Template Made By [UnlockDep](https://github.com/UnlockDep/) and [Not Existing](https://github.com/N0tExisting)
 
 > React + Sass
 
@@ -37,4 +37,4 @@ Your app is ready to be deployed!
 ### npm test
 
 Launches the application test runner.
-Run with the `--watch` flag (`npm test -- --watch`) to run in interactive watch mode.
+Run with the `--watch` flag (`npm test --watch`) to run in interactive watch mode.
